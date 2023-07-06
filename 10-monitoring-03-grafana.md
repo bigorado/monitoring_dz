@@ -34,12 +34,17 @@
 
 Ответы:
 
+Скриншот спискуа подключенных Datasource
+
 <p align="center">
   <img width="788" height="405" src="./images/1.jpg">
 </p>
+
+Скриншот Dashboard с alert
 
 <p align="center">
   <img width="1280" height="445" src="./images/2.jpg">
 </p>
 
+[Листинг Модели](https://github.com/bigorado/monitoring_dz/blob/main/files/model.json)
 
