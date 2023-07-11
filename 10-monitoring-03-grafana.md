@@ -46,5 +46,31 @@
   <img width="1280" height="445" src="./images/2.jpg">
 </p>
 
+1. Утилизация CPU для node exporter (в процентах, 100-idle):
+
+```
+100 - avg(irate(node_cpu_seconds_total{mode="idle"}[5m])) by (instance) * 100
+```
+
+2. CPULA 1/5/15:
+
+```
+avg(node_load1) by (instance)
+avg(node_load5) by (instance)
+avg(node_load15) by (instance)
+```
+
+3. Количество свободной оперативной памяти:
+
+```
+node_memory_MemAvailable_bytes / (1024 * 1024)
+```
+
+4. Количество места на файловой системе:
+
+```
+node_filesystem_avail_bytes{mountpoint="/"} / (1024 * 1024 * 1024)
+```
+
 [Листинг Модели](https://github.com/bigorado/monitoring_dz/blob/main/files/model.json)
 
