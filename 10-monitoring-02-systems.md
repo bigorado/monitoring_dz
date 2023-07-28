@@ -119,7 +119,7 @@ TICK
 7. Ответ:
 
 <p align="center">
-  <img width="1921" height="585" src="./images/5.JPG">
+  <img width="1921" height="485" src="./images/5.JPG">
 </p>
 
 8. Ответ:
