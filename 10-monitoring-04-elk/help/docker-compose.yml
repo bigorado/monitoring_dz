@@ -13,7 +13,7 @@ services:
     environment:
       - node.name=es-hot
       - cluster.name=es-docker-cluster
-      - discovery.type=single-node
+#      - discovery.type=single-node
       - discovery.seed_hosts=es-hot,es-warm
       - cluster.initial_master_nodes=es-hot,es-warm
       - node.roles=master,data_content,data_hot  
@@ -42,7 +42,7 @@ services:
     environment:
       - node.name=es-warm
       - cluster.name=es-docker-cluster
-      - discovery.type=single-node
+#      - discovery.type=single-node
       - discovery.seed_hosts=es-hot,es-warm
       - cluster.initial_master_nodes=es-hot,es-warm
       - node.roles=master,data_warm
