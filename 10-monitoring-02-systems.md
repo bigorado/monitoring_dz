@@ -131,5 +131,5 @@ TICK
 9. Ответ:
 
 <p align="center">
-  <img width="1919" height="921" src="./images/6.jpg">
+  <img width="1919" height="485" src="./images/6.jpg">
 </p>
