@@ -29,7 +29,7 @@ Filebeat следует сконфигурировать для отправки
 </p>
 
 <p align="center">
-  <img width="1619" height="114" src="./images/8.jpg">
+  <img width="1619" height="50" src="./images/8.jpg">
 </p>
 
 
