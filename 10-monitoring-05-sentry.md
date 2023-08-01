@@ -33,6 +33,9 @@ Free Cloud account имеет ограничения:
 
 Ответы:
 
+<p align="center">
+  <img width="1919" height="485" src="./images/12.JPG">
+</p>
 
 
 ## Задание 3
@@ -48,3 +51,7 @@ Free Cloud account имеет ограничения:
 6. Дополнительно поэкспериментируйте с правилами алёртинга. Выбирайте разные условия отправки и создавайте sample events. 
 
 Ответы:
+
+<p align="center">
+  <img width="1382" height="405" src="./images/13.JPG">
+</p>
