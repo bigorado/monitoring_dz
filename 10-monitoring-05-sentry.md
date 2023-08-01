@@ -53,5 +53,5 @@ Free Cloud account имеет ограничения:
 Ответы:
 
 <p align="center">
-  <img width="1382" height="405" src="./images/13.JPG">
+  <img width="1382" height="605" src="./images/13.JPG">
 </p>
